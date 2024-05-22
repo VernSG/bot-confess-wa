@@ -6,7 +6,7 @@ const {
 
 const client = new Client({
     authStrategy: new LocalAuth({
-        clientId: "Yusuf"
+        clientId: "089528493188"
     }),
     puppeteer: {
         headless: true,

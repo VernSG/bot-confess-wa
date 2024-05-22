@@ -1,0 +1,21 @@
+{
+  "name": "confess-bot",
+  "version": "1.0.0",
+  "description": "Confess bot adalah bot whatsapp yang akan membantu kamu mengatakan apapun ke teman maupun crush kalian secara anonim. Bot created by Mastay",
+  "main": "mastay.js",
+  "scripts": {
+    "start": "node mastay.js"
+  },
+  "keywords": [
+    "whatsapp-bot",
+    "bot-confess",
+    "bot-menfess"
+  ],
+  "author": "Mastay",
+  "license": "ISC",
+  "dependencies": {
+    "lowdb": "^1.0.0",
+    "qrcode-terminal": "^0.12.0",
+    "whatsapp-web.js": "github:alechkos/whatsapp-web.js#forward-with-caption"
+  }
+}

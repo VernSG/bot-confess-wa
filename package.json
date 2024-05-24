@@ -11,7 +11,7 @@
     "bot-confess",
     "bot-menfess"
   ],
-  "author": "Mastay",
+  "author": "Yusuf",
   "license": "ISC",
   "dependencies": {
     "lowdb": "^1.0.0",
